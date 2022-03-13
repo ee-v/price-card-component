@@ -36,8 +36,8 @@ Desktop:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontent Mentor Solution](https://www.frontendmentor.io/solutions/price-card-component-flexbox-and-css-grid-6LYjO5CFz)
+- Live Site URL: [Live Preview](https://ee-v.github.io/price-card-component)
 
 ## My process
 
